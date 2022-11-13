@@ -1,0 +1,56 @@
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    display: block;
+    margin: 50px;
+}
+form{
+    position: relative;
+    top: 250px;
+    width: 400px;
+    left: 430px;
+    
+}
+.div1{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.pphoto{
+    width: 100px;
+    height: 100px;
+    position: relative;
+left: 784px;
+top: 0px;
+border-radius: 500px;
+
+}
+.phooto{
+    width: 230px;
+    height: 300px;
+    position: relative;
+    left: 180px;
+    top: 500px;
+}
+.phoooto{
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    top: 850px;
+    display: block;
+    margin: 100px;
+
+}
+.login1{
+    width: 1270px;
+    height: 700px;
+
+
+}
+body{
+    background-image: url(./photo10.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1300px 720px;
+
+}
